@@ -1,0 +1,65 @@
+@charset "utf-8";
+.title_font {
+	color: #0000FF;
+	font-size:17px;	
+	background-color: #FFCF90;
+}
+
+.table_color {
+	color: #660000;
+	background-color: #EEE8AA;
+}
+
+.customer_color {
+	color: #800080;
+	background-color: #99cc99;
+}
+
+input.rightAligned {
+     text-align: right;
+}
+
+.InputClass { 
+  font-size: 16px; 
+} 
+
+#message {
+  position:absolute;
+  left:620px;
+  top:30px;
+  color: #FF0660;
+  background-color: #EEE8AA;
+}
+
+
+#insert {
+position:absolute;
+left:620px;
+top:70px;
+}
+#bpaging {
+position:absolute;
+left: 400px;
+top:77px;
+}  
+#blfirst {
+position:relative;
+left:2px;
+top:2px;
+}
+
+#blprev {
+position:relative;
+left:2px;
+top:2px;
+}
+#blnext {
+position:relative;
+left:2px;
+top:2px;
+}
+#bllast {
+position:relative;
+left:2px;
+top:2px;
+}
